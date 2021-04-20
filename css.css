@@ -1,0 +1,261 @@
+body > p {
+    font-size: 175%;
+    text-align: center;
+    margin-top: 40px;
+    font-style: oblique;
+    font-weight: 200;
+}
+body {
+    text-align: center;
+}
+
+@media (min-width:992px) { 
+
+#ChickenM {
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 250px;
+
+    margin-left: auto;
+    margin-right: 5px;
+    margin-top: 50px;
+ 
+    padding: 5px;
+    background-color: rgba(110, 153, 153, 0.562);
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#PaneerM {
+    box-sizing: border-box;
+    position:relative ;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 50px;
+    text-align: center;
+    border-style: solid;
+    width: 300px;
+    height: 250px;
+
+
+
+
+    padding: 5px;
+    background-color: rgba(110, 153, 153, 0.562);
+    border-color: black;
+    border-width: 5px;
+
+}
+
+#GG {
+    box-sizing: border-box;
+    display: inline-block;    
+    position: relative;
+    text-align: center;
+    border-style: solid;
+    width: 300px;
+    height: 250px;
+
+
+
+
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 50px;
+
+
+    padding: 5px;
+    background-color: rgba(110, 153, 153, 0.562);
+    border-color: black;
+    border-width: 5px;
+
+}
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    #ChickenM {
+        box-sizing: border-box;
+        display: inline-block;
+        position: relative;
+        text-align: center;
+        width: 300px;
+        height: 250px;
+    
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+     
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+        border-style: solid;
+    }
+    
+    #PaneerM {
+        box-sizing: border-box;
+        position:relative ;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-align: center;
+        border-style: solid;
+        width: 300px;
+        height: 250px;
+    
+    
+    
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+    
+    }
+    
+    #GG {
+        box-sizing: border-box;
+        display: block;    
+        position: relative;
+        text-align: center;
+        border-style: solid;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        width: 600px;
+        height: 250px;
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+    
+    }
+    
+}
+
+@media (max-width:767px) {
+    #ChickenM {
+        box-sizing: border-box;
+        display: block;
+        position: relative;
+        text-align: center;
+    
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        width: 300px;
+        height: 250px;
+     
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+        border-style: solid;
+    }
+    
+    #PaneerM {
+        box-sizing: border-box;
+        position:relative ;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        text-align: center;
+        border-style: solid;
+        width: 300px;
+        height: 250px;
+    
+    
+    
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+    
+    }
+    
+    #GG {
+        box-sizing: border-box;
+        display: block;    
+        position: relative;
+        text-align: center;
+        border-style: solid;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+
+        width: 300px;
+        height: 250px;
+        padding: 5px;
+        background-color: rgba(110, 153, 153, 0.562);
+        border-color: black;
+        border-width: 5px;
+    
+    }
+}
+div #noob{
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+    background-color: tomato;
+    border-color: black;
+    padding: 0%;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 125%;
+    
+
+}
+
+div #ez{
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+    background-color: rgb(71, 255, 126);
+    border-color: black;
+    padding: 0%;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 125%;
+}
+
+div #sova{
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+    background-color: rgb(112, 250, 255);
+    border-color: black;
+    padding: 0%;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 125%;
+}
+
+#topic1 p{
+    font-size: 100%;
+    text-align: left;
+    padding-top: 55px;
+}
+
+#topic2 p{
+    font-size: 100%;
+    text-align: left;
+    padding-top: 55px;
+}
+
+#topic3 p{
+    font-size: 100%;
+    text-align: left;
+    padding-top: 55px;
+}
+
+footer{
+    margin-top: 100px;
+    font-family: serif;
+}
